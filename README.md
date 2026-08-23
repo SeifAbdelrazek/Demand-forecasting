@@ -10,5 +10,10 @@ all the features are clearly describe itself.
 # Use the time series analysis and visualize it for trends and rates  
 -Most important ones:  
 # The daily trend for the demand  
-<img src="images/trend_overtime.png" width="700">
+<img src="images/trend_overtime.png" width="600">
 
+# The monthly demand
+<img src="images/demand_monthly.png" width="600">
+
+# The yearly demand  
+<img src="images/demand_yearly.png" width="600">
