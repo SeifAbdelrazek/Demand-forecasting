@@ -7,3 +7,6 @@ all the features are clearly describe itself.
 -investigating and identifying the behavior and the demand of the customers with deep queries to take overall idea.  
 ## Always make sure from answering the thoughtful question inside my head to deeply understand the business and make some insights at the beginning
 -Visualization to make the ideas more clear and track it easily  
+# Use the time series analysis and visualize it for trends and rates  
+-Most important ones
+<img src="C:\Users\PC\Downloads\Screenshot 2026-08-23 050829.png" width="700">
