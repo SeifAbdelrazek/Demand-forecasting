@@ -9,4 +9,4 @@ all the features are clearly describe itself.
 -Visualization to make the ideas more clear and track it easily  
 # Use the time series analysis and visualize it for trends and rates  
 -Most important ones
-<img src="C:\Users\PC\Downloads\Screenshot 2026-08-23 050829.png" width="700">
+
